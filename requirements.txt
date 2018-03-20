@@ -1,0 +1,8 @@
+numpy
+foursquare
+geopy
+pandas
+shapely
+geopandas
+pyproj
+pyshp
